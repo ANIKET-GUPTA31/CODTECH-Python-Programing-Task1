@@ -1,4 +1,7 @@
-# CODTECH-Python-Programing-Task1
+# CODTECH-Python-Programming-Task1
+ID :-CT08DS5359,     
+DOMAIN:- PYTHON PROGRAMMING,     
+DURATION :- JULY TO AUGUST 2024
 
 ## Overview
 
